@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" role="img" aria-labelledby="title desc">
+  <title id="title">Design hobby</title>
+  <desc id="desc">Design board with color and layout blocks.</desc>
+  <rect width="560" height="320" fill="#f8fafc"/>
+  <rect x="70" y="58" width="420" height="224" rx="14" fill="#ffffff" stroke="#334155" stroke-width="8"/>
+  <rect x="106" y="96" width="116" height="130" rx="10" fill="#0f766e"/>
+  <rect x="250" y="96" width="174" height="28" rx="8" fill="#334155"/>
+  <rect x="250" y="154" width="124" height="24" rx="8" fill="#d9e2ea"/>
+  <circle cx="262" cy="226" r="22" fill="#f59e0b"/>
+  <circle cx="322" cy="226" r="22" fill="#0f766e"/>
+  <circle cx="382" cy="226" r="22" fill="#334155"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" role="img" aria-labelledby="title desc">
+  <title id="title">Music hobby</title>
+  <desc id="desc">Music note illustration.</desc>
+  <rect width="560" height="320" fill="#f8fafc"/>
+  <circle cx="204" cy="222" r="54" fill="#f59e0b"/>
+  <circle cx="386" cy="190" r="54" fill="#0f766e"/>
+  <path d="M250 222V74l190-34v150" fill="none" stroke="#334155" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M250 116l190-34" stroke="#334155" stroke-width="18" stroke-linecap="round"/>
+</svg>

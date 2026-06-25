@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A clean frame showing where to place a profile photo.</desc>
+  <rect width="640" height="800" fill="#f8fafc"/>
+  <rect x="42" y="42" width="556" height="716" rx="18" fill="#ffffff" stroke="#334155" stroke-width="10"/>
+  <path d="M98 640c80-105 176-157 288-157 82 0 154 29 216 86v111H98Z" fill="#0f766e"/>
+  <circle cx="320" cy="298" r="126" fill="#f59e0b"/>
+  <circle cx="276" cy="284" r="16" fill="#334155"/>
+  <circle cx="364" cy="284" r="16" fill="#334155"/>
+  <path d="M270 352c35 26 73 26 112 0" fill="none" stroke="#334155" stroke-width="16" stroke-linecap="round"/>
+  <text x="320" y="716" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">PLACE YOUR PHOTO</text>
+</svg>

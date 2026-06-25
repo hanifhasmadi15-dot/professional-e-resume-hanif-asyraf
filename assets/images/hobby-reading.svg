@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" role="img" aria-labelledby="title desc">
+  <title id="title">Reading hobby</title>
+  <desc id="desc">Open books in a simple illustration.</desc>
+  <rect width="560" height="320" fill="#f8fafc"/>
+  <path d="M70 88h190c28 0 50 22 50 50v128H120c-28 0-50-22-50-50Z" fill="#ffffff" stroke="#334155" stroke-width="8"/>
+  <path d="M490 88H310v178h140c28 0 50-22 50-50V98c0-6-4-10-10-10Z" fill="#ffffff" stroke="#334155" stroke-width="8"/>
+  <path d="M310 128v138" stroke="#0f766e" stroke-width="10"/>
+  <path d="M118 142h156M118 184h130M346 142h112M346 184h140" stroke="#f59e0b" stroke-width="12" stroke-linecap="round"/>
+</svg>

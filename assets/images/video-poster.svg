@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 506" role="img" aria-labelledby="title desc">
+  <title id="title">Video poster placeholder</title>
+  <desc id="desc">A poster image for an introduction video.</desc>
+  <rect width="900" height="506" fill="#334155"/>
+  <rect x="52" y="52" width="796" height="410" rx="16" fill="#f8fafc"/>
+  <polygon points="405,176 405,330 540,253" fill="#0f766e"/>
+  <rect x="134" y="376" width="632" height="18" rx="9" fill="#d9e2ea"/>
+  <rect x="134" y="376" width="252" height="18" rx="9" fill="#f59e0b"/>
+  <text x="450" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#334155">INTRODUCTION VIDEO</text>
+</svg>
